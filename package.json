@@ -1,7 +1,7 @@
 {
   "name": "electron-quick-start",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Currency converter application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -9,14 +9,15 @@
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "converter",
+    "currency"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^14.0.0"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.1.4"
   }
 }
