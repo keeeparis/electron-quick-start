@@ -1,6 +1,6 @@
 # Currency converter with Electron
 
 ## TO USE
-npm i && npm start
+<pre>npm i && npm start</pre>
 
 Also, enter you own token!
